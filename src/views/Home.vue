@@ -1,6 +1,6 @@
 <template>
   <div class="home container">
-    <p class="hello pSpecial animated fadeInUp ">Hello!</p>
+    <p class="hello pSpecial animated fadeInUp ">Hi There!</p>
     <p class="intro pSpecial animated fadeInUp">I'm Favour Ori — A  <b>US </b>Based
       <b>Full Stack</b> Developer.
     </p>

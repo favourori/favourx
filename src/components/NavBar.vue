@@ -4,7 +4,7 @@
     <nav class="navColor">
         <div class="container">
     <div class="nav-wrapper">
-      <a href="#" class="brand-logo main-logo" style="font-size: 28px; font-weight: 100">favourX 🔥</a>
+      <a href="#" class="brand-logo main-logo" style="font-size: 28px; font-weight: 100">favourX 👨🏾‍💻</a>
       <ul class="right hide-on-med-and-down">
         <li>  <router-link to="/">  Home </router-link>  </li>
 
