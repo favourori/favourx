@@ -44,6 +44,13 @@ export default {
       return {
           
           projects : [
+               {
+             title: "Mini Task Manager",
+             desc : "Very lightweight task manager developed in Vue Js - using the vuetify Library. Persisting data with Firebase",
+             image: require('@/assets/images/taskManager.png'),
+
+             tech : ["Javascript", "Vue Js", "Vuetify", "Firebase"]
+         },
          {
              title: "Github Finder App",
              desc : "Using the Github Public API to build a Javascript app that let's you search for users. It returns their Avatar, repo count, followers, etc",
